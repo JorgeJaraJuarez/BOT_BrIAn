@@ -1,0 +1,10 @@
+openai==0.28.0
+langchain==0.0.303
+llama-index==0.8.45
+flask
+pikepdf
+pypdf
+python-dotenv
+PyPDF2
+pymongo
+flask-cors
